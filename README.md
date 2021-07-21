@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Connect with me:
-[<img align="left" alt="clennox1 | Instagram" width="22px" src="icons8-instagram-500.png" />][Instagram]
+[<img align="left" alt="https://www.instagram.com/chelsealennox/" width="22px" src="icons8-instagram-500.png" />][Instagram]
