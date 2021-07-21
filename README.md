@@ -25,5 +25,3 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clennox1&show_icons=true&locale=en" alt="clennox1" /></p>
 
-## Connect with me:
-[<img align="left" alt="https://www.instagram.com/chelsealennox/" width="22px" src="icons8-instagram-500.png" />][Instagram]
