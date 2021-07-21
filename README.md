@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 --><h1 align="center">Hi 👋, I'm Chelsea</h1>
 <h3 align="center">I am a student at University of Central Florida studying Mathematics with a focus on Data analysis and pursuing a minor in Computer Science.</h3>
 
+- ✨ I am interested in full-stack/backend development, machine learning, and data analysis. 
+
 - 👨‍💻 Feel free to check out my website: [https://sites.google.com/view/clennox/home?authuser=2](https://sites.google.com/view/clennox/home?authuser=2)
 
 - ⚡ Fun fact **I love to play piano and watch anime.**
