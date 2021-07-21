@@ -1,4 +1,4 @@
-### Hi there! I 👋
+### Hi there! 👋
 
 <!--
 **clennox1/clennox1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Connect with me:
-[<img align="left" alt="clennox1 | YouTube" width="22px" src="file:///C:/Users/chels/Downloads/icons8-instagram.svg" />][Instagram]
+
